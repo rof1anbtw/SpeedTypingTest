@@ -1,0 +1,17 @@
+C:\Users\pshum\source\repos\SpeedTypingTest\SpeedTypingTest\bin\Debug\net6.0\SpeedTypingTest.exe
+C:\Users\pshum\source\repos\SpeedTypingTest\SpeedTypingTest\bin\Debug\net6.0\SpeedTypingTest.deps.json
+C:\Users\pshum\source\repos\SpeedTypingTest\SpeedTypingTest\bin\Debug\net6.0\SpeedTypingTest.runtimeconfig.json
+C:\Users\pshum\source\repos\SpeedTypingTest\SpeedTypingTest\bin\Debug\net6.0\SpeedTypingTest.dll
+C:\Users\pshum\source\repos\SpeedTypingTest\SpeedTypingTest\bin\Debug\net6.0\SpeedTypingTest.pdb
+C:\Users\pshum\source\repos\SpeedTypingTest\SpeedTypingTest\obj\Debug\net6.0\SpeedTypingTest.csproj.AssemblyReference.cache
+C:\Users\pshum\source\repos\SpeedTypingTest\SpeedTypingTest\obj\Debug\net6.0\SpeedTypingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pshum\source\repos\SpeedTypingTest\SpeedTypingTest\obj\Debug\net6.0\SpeedTypingTest.AssemblyInfoInputs.cache
+C:\Users\pshum\source\repos\SpeedTypingTest\SpeedTypingTest\obj\Debug\net6.0\SpeedTypingTest.AssemblyInfo.cs
+C:\Users\pshum\source\repos\SpeedTypingTest\SpeedTypingTest\obj\Debug\net6.0\SpeedTypingTest.csproj.CoreCompileInputs.cache
+C:\Users\pshum\source\repos\SpeedTypingTest\SpeedTypingTest\obj\Debug\net6.0\SpeedTypingTest.dll
+C:\Users\pshum\source\repos\SpeedTypingTest\SpeedTypingTest\obj\Debug\net6.0\refint\SpeedTypingTest.dll
+C:\Users\pshum\source\repos\SpeedTypingTest\SpeedTypingTest\obj\Debug\net6.0\SpeedTypingTest.pdb
+C:\Users\pshum\source\repos\SpeedTypingTest\SpeedTypingTest\obj\Debug\net6.0\SpeedTypingTest.genruntimeconfig.cache
+C:\Users\pshum\source\repos\SpeedTypingTest\SpeedTypingTest\obj\Debug\net6.0\ref\SpeedTypingTest.dll
+C:\Users\pshum\source\repos\SpeedTypingTest\SpeedTypingTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pshum\source\repos\SpeedTypingTest\SpeedTypingTest\obj\Debug\net6.0\SpeedTypingTest.csproj.CopyComplete

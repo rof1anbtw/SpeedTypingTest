@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oo1XJ3WnD/K+/zebNrnIt+96OgZt8Pi3h8ViFC4by5clvpldlu1S7A4lXHlEvsn6lnMxumUptCV7Tm4Ke42knA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pshum\\source\\repos\\SpeedTypingTest\\SpeedTypingTest\\SpeedTypingTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pshum\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
